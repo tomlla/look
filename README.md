@@ -5,5 +5,5 @@ static linked DNS lookup command.
 # Install
 
 ```
-go get github.com/tomlla/look
+go install github.com/tomlla/look@latest
 ```
